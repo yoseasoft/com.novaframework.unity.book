@@ -1,0 +1,22 @@
+{
+  "name": "com.novaframework.unity.book",
+  "displayName": "NovaFramework-Unity Book",
+  "description": "NovaFramework-Unity Book Package",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "unityRelease": "0f1",
+  "license": "MIT",
+  "keywords": [ "Unity", "NovaFramework", "Book" ],
+  "author": {
+    "name": "hurley",
+    "email": "yoseasoft@163.com",
+    "url": "https://github.com/yoseasoft/com.novaframework.unity.book"
+  },
+  "repository": {
+    "name": "com.novaframework.unity.book",
+    "type": "git",
+    "url": "https://github.com/yoseasoft/com.novaframework.unity.book.git"
+  },
+  "relatedPackages": {},
+  "dependencies": {}
+}
