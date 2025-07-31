@@ -4,11 +4,11 @@ namespace Game.Pack
     /// <summary>
     /// 演示案例总控
     /// </summary>
-    public static class BookObject
+    public class BookObject : UnityEngine.MonoBehaviour
     {
-        public static void ReadBook(string str)
+        void Awake()
         {
-            UnityEngine.Debug.Log(str);
+            UnityEngine.Debug.Log("hello book!");
         }
     }
 }
