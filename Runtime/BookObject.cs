@@ -12,5 +12,10 @@ namespace Game.Pack
         {
             Debug.LogWarning("book object awake !!!");
         }
+        
+        protected virtual void Start()
+        {
+            Debug.LogWarning("book object start !!!");
+        }
     }
 }
